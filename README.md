@@ -3,7 +3,7 @@ File Analyzer is a Python tool for binary file analysis. It extracts strings and
 
 
 
-```
+
 # File Analyzer
 
 File Analyzer is a Python application that provides detailed analysis of binary files, extracting strings, URLs, and generating visual representations of the file contents.
@@ -72,5 +72,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
